@@ -1,5 +1,0 @@
-This is test3.txt created by Rohith.
-Updated on December 24, 2025.
-Additional content for demonstration purposes.
-This file has been modified and will be committed to the repository.
-New update: Adding more lines to test3.txt for further demonstration. 
